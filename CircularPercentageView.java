@@ -18,7 +18,7 @@ public class CircularPercentageView {
 		paint.setStrokeWidth(30);
 		paint.setStyle(Paint.Style.STROKE);
 		canvas.drawCircle(150, 150, 140, paint);
-		paint.setColor(Color.parseColor(#FA5858));
+		paint.setColor(Color.parseColor("#FA5858"));
 		paint.setStrokeWidth(5);
 		paint.setStyle(Paint.Style.FILL);
 		final RectF oval = new RectF();
